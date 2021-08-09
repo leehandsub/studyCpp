@@ -37,3 +37,4 @@ int main(void)
 	}
 	printf("%d", cnt[max]);
 }
+//30분 걸림...
