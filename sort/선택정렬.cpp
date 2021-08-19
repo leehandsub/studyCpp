@@ -20,16 +20,16 @@ int main(void)
 	}
 
 
-	for (int i = 0; i < N-1; i++)
+for (int i = 0; i < N-1; i++)
 	{
 		idx = i;
-		for (int j = 0; j < N; j++)
+		for (int j = i+1; j < N; j++)
 		{
 			if (a[j] < a[idx])idx = j;
 		}
 		int temp = a[i];
 		a[i] = a[idx];
-		a[idx] = a[i];
+		a[idx] = temp;
 	}
 	for (int i = 0; i < N; i++)
 	{
