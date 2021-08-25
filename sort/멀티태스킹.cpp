@@ -28,11 +28,6 @@ int main(void)
 			a[i]--;
 			now++;
 		}
-		else
-		{
-		
-		}
-
 		if (i % N == 0)
 		{
 			i = 0;
