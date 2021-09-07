@@ -83,7 +83,7 @@ int main(void)
 	scanf("%d %d", &N, &M);
 	for (int i = 0; i < M; i++)
 	{
-		scanf("%d", &c, &d);
+		scanf("%d %d", &c, &d);
 		a[c].push_back(d);
 	}
 	check[1] = 1;
