@@ -1,3 +1,11 @@
 vector<vector<int>> board nxn벡티이면 board.size()=n이다...
 vector<int> arr(n+1,1); 백터 1로 초기화
 sort(a.begin(),a.end()) end다 기억하자
+
+max_element(v.begin(), v.end());
+max_element(v.begin(), v.end()) - v.begin();가장 큰 수의 인덱스
+
+
+
+hash
+unordered_map<string, int> temp;
