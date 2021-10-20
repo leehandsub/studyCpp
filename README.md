@@ -13,4 +13,4 @@
 2단계
 
 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
-[N개의 최소공배수}(https://programmers.co.kr/learn/courses/30/lessons/12953#)
+[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953#)
