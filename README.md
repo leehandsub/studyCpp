@@ -22,3 +22,8 @@
 [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
 
 [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+
+[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+
+3단계
+[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
