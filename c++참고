@@ -9,11 +9,11 @@ max_element(v.begin(), v.end()) - v.begin();가장 큰 수의 인덱스
 sort(answer.begin(),answer.end()); 
 백터.erase(unique(s.begin(),s.end()),s.end()) 중복제거
 copy(arr1.begin(), arr1.end(), arr2.begin()); 백터복사
-
+sort(arr, arr+3, greater<>());내림차순 정렬
 
 hash
-unordered_map<string, int> temp;
-
+unordered_map<string, int> temp; 중복허용 x
+temp.insert(make_pair(gems[i],0);
 
 string
 str[i] = toupper(str[i]);대문자 만들기
