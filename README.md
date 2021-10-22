@@ -25,5 +25,8 @@
 
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
+[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+
 3단계
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
+[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258#) 1번이 안됨..
