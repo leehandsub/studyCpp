@@ -27,6 +27,13 @@
 
 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 
+[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+
 3단계
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
+
 [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258#) 1번이 안됨..
+
+[숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
+
+[기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)
