@@ -29,6 +29,10 @@
 
 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 
+[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=cpp)
+
+[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+
 3단계
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
 
