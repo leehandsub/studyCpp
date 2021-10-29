@@ -30,6 +30,7 @@ priority_queue(우선 순위 큐)heap이라 push pop이 가벼움
 priority_queue<int, vector<int>, greater<int>> pq; 오름차순
 priority_queue<int> pq; 내림차순
 pq.top()위에꺼 pq.pop()위에꺼 없애기
+q = priority_queue <int>();//q 클리어
 
 set 
 존재여부 판단 s.count(key) 1이면 존재 0이면 존재하지않음 map이나 hash도 될지도?
