@@ -37,6 +37,8 @@
 
 [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
 
+[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390?language=cpp) 머가 문제인지 몰겟음
+
 3단계
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
@@ -46,3 +48,5 @@
 [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
 
 [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)
+
+[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
