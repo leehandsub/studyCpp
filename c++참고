@@ -1,5 +1,9 @@
 vector
 vector<vector<int>> board nxn벡티이면 board.size()=n이다...
+vecotr<vector<int>> arr(n,vector<int>(n,0)); 2차원 벡터 초기화
+vecotr<vector<int>> arr; //값을 넣을때 먼저 벡터를 넣어주고 하나씩 추가해야한다. 요런싱긍로 vector <int> v2; v.pushback(v2); v[0].pushback(7);
+vector < vector <int> > v;
+
 vector<int> arr(n+1,1); 백터 1로 초기화
 sort(a.begin(),a.end()) end다 기억하자
 
