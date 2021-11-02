@@ -41,6 +41,8 @@
 
 [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 
+[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
+
 3단계
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
