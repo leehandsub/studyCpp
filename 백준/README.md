@@ -10,3 +10,5 @@
 #자료구조
 
 [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) 실5
+
+[14425 문자열 집합](https://www.acmicpc.net/problem/14425) 실4
