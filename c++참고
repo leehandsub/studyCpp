@@ -45,3 +45,5 @@ ios::sync_with_stdio(false);//iostream에서 cin cout을 더 빠르게 해준다
 cin.tie(0);//무슨 버퍼 비우는 용도라는데 먼지는 모르겟다
 
 #include <cctype> isdigit 정수인지 문자열인지 판단하는 함수(s[0]로 숫자면 보통 숫자니까 숫자로 판단하자)
+
+#include <stdlib.h> abs가 있었다...
