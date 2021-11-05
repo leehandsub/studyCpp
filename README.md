@@ -37,7 +37,7 @@
 
 [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
 
-[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390?language=cpp) 머가 문제인지 몰겟음
+[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390?language=cpp) 
 
 [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 
@@ -55,4 +55,4 @@
 
 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 
-[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#) long long 문제점 같긴한데 머가 문제인지 몰겟다. 3,8,5틀림
+[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#)
