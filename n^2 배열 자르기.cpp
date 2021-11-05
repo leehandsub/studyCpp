@@ -5,9 +5,9 @@ using namespace std;
 
 vector<int> solution(int n, long long left, long long right) {
     vector<int> answer;
-    int now=0;
-    int find=0;
-    for(int i=left+1;i<=right+1;i++)
+    long long now=0;
+    long long find=0;//걍 다 int를 longlong으로 바꾸니 해결됨... 개같네요
+    for(long long i=left+1;i<=right+1;i++)
     {
         now=i/n+1;
         find=i%n;
