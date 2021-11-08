@@ -27,3 +27,13 @@
 
 [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) 실3(dp로 푼거 같은 느낌)
 
+#시뮬레이션
+
+[20436 ZOAC 3](https://www.acmicpc.net/problem/20436) 실4
+
+#이분 탐색
+
+[1789 수들의 합](https://www.acmicpc.net/problem/1789) 실5(이분탐색으로 안풀긴함...)
+
+
+
