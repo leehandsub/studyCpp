@@ -43,6 +43,10 @@
 
 [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
 
+[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+
+[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
+
 3단계
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
