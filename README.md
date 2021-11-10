@@ -47,6 +47,8 @@
 
 [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
 
+[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+
 3단계
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
