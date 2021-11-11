@@ -49,6 +49,8 @@
 
 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 
+[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
+
 3단계
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
@@ -62,3 +64,5 @@
 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 
 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#)
+
+[징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
