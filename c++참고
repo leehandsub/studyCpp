@@ -31,6 +31,8 @@ string to int stoi(a)
 int to string to_string(a)
 printf가 안먹힘 cout<<으로 해야함
 string sub = numbers.substr(3, 5);//3번째부터 5칸 잘라온다.
+str.assign("12345678");
+str.erase(0, 4); //"5678" 0번째부터 4칸 없앤다.
 
 priority_queue(우선 순위 큐)heap이라 push pop이 가벼움
 priority_queue<int, vector<int>, greater<int>> pq; 오름차순
