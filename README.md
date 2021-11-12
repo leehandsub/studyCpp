@@ -51,6 +51,10 @@
 
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 
+[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985#)
+
+[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+
 3단계
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
