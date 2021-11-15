@@ -2,22 +2,25 @@
 
 [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)  브2
 
+#bfs
+
+[1926 그림](https://www.acmicpc.net/problem/1926) 실1
+
+[2178 미로 탐색](https://www.acmicpc.net/problem/2178) 실1
 
 #구현
 
 [1913 달팽이](https://www.acmicpc.net/problem/1913) 실5
+
+[22864 피로도](https://www.acmicpc.net/problem/22864) 브3
+
+[2753 윤년](https://www.acmicpc.net/problem/2753) 브4
 
 #자료구조
 
 [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) 실5
 
 [14425 문자열 집합](https://www.acmicpc.net/problem/14425) 실4
-
-#구현
-
-[22864 피로도](https://www.acmicpc.net/problem/22864) 브3
-
-[2753 윤년](https://www.acmicpc.net/problem/2753) 브4
 
 #그리디
 
