@@ -2,6 +2,12 @@
 
 [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)  브2
 
+[1463 1로 만들기](https://www.acmicpc.net/problem/1463) 실3
+
+[9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) 실3
+
+[11726 2×n 타일링](https://www.acmicpc.net/problem/11726) 실3
+
 #bfs
 
 [1926 그림](https://www.acmicpc.net/problem/1926) 실1
