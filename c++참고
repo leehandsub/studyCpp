@@ -6,6 +6,13 @@ vector < vector <int> > v;
 
 vector<int> arr(n+1,1); 백터 1로 초기화
 sort(a.begin(),a.end()) end다 기억하자
+bool compare(const pair<int, int>& a, const pair<int, int>& b)
+{
+    if(a.second==b.second)
+        return a.first<b.first;
+    return a.second<b.second;
+}//second 먼저 오름차순후 같으면 나머지 오름차순.
+ sort(arr.begin(),arr.end(),greater<>());//내림차순 정렬
 
 *max_element(v.begin(), v.end());
 max_element(v.begin(), v.end()) - v.begin();가장 큰 수의 인덱스
