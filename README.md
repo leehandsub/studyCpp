@@ -55,7 +55,11 @@
 
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
 
+[방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994#)
+
 3단계
+
+[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898#)
 
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) 아직
 
