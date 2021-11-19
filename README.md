@@ -13,6 +13,10 @@
 
 [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612?language=cpp)
 
+[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+
+[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
+
 2단계
 
 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
@@ -57,6 +61,8 @@
 
 [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994#)
 
+[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
+
 3단계
 
 [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898#)
@@ -74,3 +80,5 @@
 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#)
 
 [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
+
+[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
