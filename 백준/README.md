@@ -46,6 +46,10 @@
 
 [20436 ZOAC 3](https://www.acmicpc.net/problem/20436) 실4
 
+#string
+
+[1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316) 실5
+
 #이분 탐색
 
 [1789 수들의 합](https://www.acmicpc.net/problem/1789) 실5(이분탐색으로 안풀긴함...)
