@@ -28,6 +28,12 @@
 
 [14425 문자열 집합](https://www.acmicpc.net/problem/14425) 실4
 
+[10828 스택](https://www.acmicpc.net/problem/10828) 실4
+
+[9012 괄호](https://www.acmicpc.net/problem/9012) 실4
+
+[2164 카드2](https://www.acmicpc.net/problem/2164) 실4
+
 #그리디
 
 [14916 거스름돈](https://www.acmicpc.net/submit/14916/35024217) 실5
@@ -49,6 +55,8 @@
 #string
 
 [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316) 실5
+
+[20437 문자열 게임 2)(https://www.acmicpc.net/problem/20437) 골5 머가 문제인지 모르겟음
 
 #이분 탐색
 
