@@ -47,6 +47,9 @@ priority_queue<int> pq; 내림차순
 pq.top()위에꺼 pq.pop()위에꺼 없애기
 q = priority_queue <int>();//q 클리어
 
+stack queue 초기화 c++11부터 
+s={}
+
 set 
 존재여부 판단 s.count(key) 1이면 존재 0이면 존재하지않음 map이나 hash도 될지도?
 set.insert(), set.erase(위치)
