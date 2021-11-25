@@ -34,6 +34,10 @@
 
 [2164 카드2](https://www.acmicpc.net/problem/2164) 실4
 
+[1874 스택 수열](https://www.acmicpc.net/problem/1874) 실3
+
+[1935 후위 표기식2](https://www.acmicpc.net/problem/1935) 실3
+
 #그리디
 
 [14916 거스름돈](https://www.acmicpc.net/submit/14916/35024217) 실5
