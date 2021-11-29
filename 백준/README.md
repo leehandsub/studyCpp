@@ -8,6 +8,10 @@
 
 [11726 2×n 타일링](https://www.acmicpc.net/problem/11726) 실3
 
+[1010 다리 놓기](https://www.acmicpc.net/problem/1010) 실5
+
+[2579 계단 오르기](https://www.acmicpc.net/problem/2579) 실3
+
 #bfs
 
 [1926 그림](https://www.acmicpc.net/problem/1926) 실1
