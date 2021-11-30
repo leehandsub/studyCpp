@@ -26,6 +26,10 @@
 
 [2753 윤년](https://www.acmicpc.net/problem/2753) 브4
 
+[1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) 실4
+
+[17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 실3
+
 #자료구조
 
 [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) 실5
