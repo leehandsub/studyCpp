@@ -56,6 +56,12 @@
 
 [2217 로프](https://www.acmicpc.net/problem/2217) 실4
 
+[11399 ATM](https://www.acmicpc.net/problem/11399) 실3
+
+[13305 주유소](https://www.acmicpc.net/problem/13305) 실4
+
+[20365 블로그2](https://www.acmicpc.net/problem/20365) 실2
+
 #투포인터
 
 [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) 실3(dp로 푼거 같은 느낌)
