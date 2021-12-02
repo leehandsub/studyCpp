@@ -46,6 +46,12 @@
 
 [1935 후위 표기식2](https://www.acmicpc.net/problem/1935) 실3
 
+[11279 최대 힙](https://www.acmicpc.net/problem/11279) 실2
+
+[11286 절댓값 힙](https://www.acmicpc.net/problem/11286) 실1
+
+[2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) 골5
+
 #그리디
 
 [14916 거스름돈](https://www.acmicpc.net/submit/14916/35024217) 실5
