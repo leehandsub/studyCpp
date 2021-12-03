@@ -12,6 +12,10 @@
 
 [2579 계단 오르기](https://www.acmicpc.net/problem/2579) 실3
 
+[1890 점프](https://www.acmicpc.net/problem/1890) 실2
+
+[15486 퇴사2](https://www.acmicpc.net/problem/15486) 실1 아직 못품... 테케5해결
+ 
 #bfs
 
 [1926 그림](https://www.acmicpc.net/problem/1926) 실1
