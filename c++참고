@@ -1,3 +1,4 @@
+getline(cin,s); //뛰어쓰기 한줄 한번에 다 받기(s는 string만 가능)
 vector
 vector<vector<int>> board nxn벡티이면 board.size()=n이다...
 vecotr<vector<int>> arr(n,vector<int>(n,0)); 2차원 벡터 초기화
