@@ -34,6 +34,8 @@
 
 [17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 실3
 
+[15787 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) 실2
+
 #자료구조
 
 [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) 실5
