@@ -1,3 +1,14 @@
+/*
+
+문제 : 백준 계단 오르기
+시간 : ??(복기)
+ide 활용 : 
+질문 보기 :
+
+dp사용 2번째 할래 3번째 할래로 경우의 2개로 나눠서 사용
+
+*/
+
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
