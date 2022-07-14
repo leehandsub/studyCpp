@@ -1,3 +1,8 @@
+/*
+문제 : 프로그래머스 lv2 기능개발
+피드백 : 큐로 먼저 잇는것이 다될때까지 기다리다가 한번에 출력하게 했다.
+*/
+
 #include <string>
 #include <vector>
 #include <stdio.h>

@@ -1,3 +1,9 @@
+/*
+문제 : 프로그래머스 lv2 더 맵게
+피드백 : priority_queue<int, vector<int>, greater<int>> pq;사용해서 값이 들어오면
+알아서 맨위에 작은값이 오게 했다.
+*/
+
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -10,7 +16,7 @@ int solution(vector<int> scoville, int K) {
     int find=0;
     int now=0;
     int cnt=0;
-    //sort(scoville.begin(),scoville.end());
+
     for(int i=0;i<scoville.size();i++)
     {
         pq.push(scoville[i]);
