@@ -1,58 +1,63 @@
+/*
+문제 : 문자열 게임 2
+시간 : 20분
+ide 활용 : x
+질문 보기 : x
+피드백 : 길이가 k가 될때마다 최대 최소를 각 알파벳 별로 계산하게 햇다.
+*/
+
+#define _CRT_SECURE_NO_WARNINGS 
 #include <iostream>
-#include <string>
 #include <vector>
 #include <set>
+#include <algorithm>
 
 using namespace std;
 
-int main(void)
-{
-    int n;
-    int find=0;
-    int k;
-    int max=-1,min=999999999;
-    string in;
-    vector<vector<int>> arr(26);
-    vector<vector<int>> arr2(26);
-    scanf("%d",&n);
+int main(void) {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     
-    for(int i=0;i<n;i++)
-    { 
-        cin>>in;
-        cin>>k;
-        for(int j=0;j<in.size();j++)
+    int T;
+    string s;
+    int k;
+
+    cin >> T;
+
+    while (T--)
+    {
+        vector<int> minCnt(27, 1999999999);
+        vector<int> maxCnt(27, 0);
+        vector<vector<int>> index(27);
+        cin >> s;
+        cin >> k;
+
+        for (int i = 0;i < s.size();i++)
         {
-            arr[in[j]-'a'].push_back(j);
-            arr2[in[j]-'a'].push_back(j);
-            if(arr[in[j]-'a'].size()==k)
+            int ind = s[i] - 'a';
+            index[ind].push_back(i);
+            if (index[ind].size() == k)
             {
-                if(max<arr[in[j]-'a'].back()-arr[in[j]-'a'].front()+1)
-                {
-                    max=arr[in[j]-'a'].back()-arr[in[j]-'a'].front()+1;
-                    arr[in[j]-'a'].erase(arr[in[j]-'a'].begin());
-                }
-                find=1;
+                int size = index[ind][k - 1] - index[ind][0]+1;
+                minCnt[ind] = min(minCnt[ind], size);
+                maxCnt[ind] = max(maxCnt[ind], size);
+                index[ind].erase(index[ind].begin());
             }
-            if(arr2[in[j]-'a'].size()==k)
-            {
-                if(min>arr2[in[j]-'a'].back()-arr2[in[j]-'a'].front()+1)
-                {
-                    min=arr2[in[j]-'a'].back()-arr2[in[j]-'a'].front()+1;
-                    arr2[in[j]-'a'].erase(arr2[in[j]-'a'].begin());
-                }
-                find=1;
-            }
-            
         }
-        if(find==0)
-            printf("-1\n");
-        else
-            printf("%d %d\n",min,max);
-        find=0;
-        for(int j=0;j<arr.size();j++)
+
+        int maxAns = *max_element(maxCnt.begin(), maxCnt.end());
+        int minAns = *min_element(minCnt.begin(), minCnt.end());
+
+        if (maxAns == 0)
         {
-            arr[j].clear();
-            arr2[j].clear();
+            cout << -1 << "\n";
+        }
+        else
+        {
+            cout << minAns << " " << maxAns << "\n";
         }
     }
+
 }
+
